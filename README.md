@@ -1,5 +1,5 @@
 <!-- Animasi teks -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hi%2C+I'm+Putra+👋;Student+%7C+Web+%26+Game+Dev+Enthusiast;Always+Learning+%26+Building+💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hi%2C+I'm+SyahputraWinata+👋;Student+%7C+Web+%26+Game+Dev+Enthusiast;Always+Learning+%26+Building+💻)](https://git.io/typing-svg)
 
 # 🌟 About Me
 - 🎓 SMK Wikrama Bogor — Software & Game Development Major  
